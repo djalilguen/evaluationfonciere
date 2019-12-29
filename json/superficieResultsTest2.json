@@ -1,0 +1,10 @@
+{
+	"lotissements": [{
+		"description": "lot 1"
+	}, {
+		"message": "superficie du lot doit etre inferieure ou egale 50000 m2"
+	}]
+}
+
+
+
